@@ -1,0 +1,54 @@
+E:/Senior/Mobile Application/Booking Project/Booking/Booking/obj/Debug/netstandard2.0/Booking.csprojAssemblyReference.cache
+E:/Senior/Mobile Application/Booking Project/Booking/Booking/obj/Debug/netstandard2.0/App.xaml.g.cs
+E:/Senior/Mobile Application/Booking Project/Booking/Booking/obj/Debug/netstandard2.0/BookingShell.xaml.g.cs
+E:/Senior/Mobile Application/Booking Project/Booking/Booking/obj/Debug/netstandard2.0/Controls/FlyoutHeader.xaml.g.cs
+E:/Senior/Mobile Application/Booking Project/Booking/Booking/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+E:/Senior/Mobile Application/Booking Project/Booking/Booking/obj/Debug/netstandard2.0/Views/AboutPage.xaml.g.cs
+E:/Senior/Mobile Application/Booking Project/Booking/Booking/obj/Debug/netstandard2.0/Views/FoodDetailPage.xaml.g.cs
+E:/Senior/Mobile Application/Booking Project/Booking/Booking/obj/Debug/netstandard2.0/Views/FoodPage.xaml.g.cs
+E:/Senior/Mobile Application/Booking Project/Booking/Booking/obj/Debug/netstandard2.0/Views/HotelDetailPage.xaml.g.cs
+E:/Senior/Mobile Application/Booking Project/Booking/Booking/obj/Debug/netstandard2.0/Views/HotelPage.xaml.g.cs
+E:/Senior/Mobile Application/Booking Project/Booking/Booking/obj/Debug/netstandard2.0/Views/LocationDetailPage.xaml.g.cs
+E:/Senior/Mobile Application/Booking Project/Booking/Booking/obj/Debug/netstandard2.0/Views/LocationPage.xaml.g.cs
+E:/Senior/Mobile Application/Booking Project/Booking/Booking/obj/Debug/netstandard2.0/Views/LoginPage.xaml.g.cs
+E:/Senior/Mobile Application/Booking Project/Booking/Booking/obj/Debug/netstandard2.0/Views/VehicleDetailPage.xaml.g.cs
+E:/Senior/Mobile Application/Booking Project/Booking/Booking/obj/Debug/netstandard2.0/Views/VehiclePage.xaml.g.cs
+E:/Senior/Mobile Application/Booking Project/Booking/Booking/obj/Debug/netstandard2.0/Booking.AssemblyInfoInputs.cache
+E:/Senior/Mobile Application/Booking Project/Booking/Booking/obj/Debug/netstandard2.0/Booking.AssemblyInfo.cs
+E:/Senior/Mobile Application/Booking Project/Booking/Booking/obj/Debug/netstandard2.0/Booking.csproj.CoreCompileInputs.cache
+E:/Senior/Mobile Application/Booking Project/Booking/Booking/obj/Debug/netstandard2.0/Booking.dll
+E:/Senior/Mobile Application/Booking Project/Booking/Booking/obj/Debug/netstandard2.0/ref/Booking.dll
+E:/Senior/Mobile Application/Booking Project/Booking/Booking/obj/Debug/netstandard2.0/Booking.pdb
+E:/Senior/Mobile Application/Booking Project/Booking/Booking/bin/Debug/netstandard2.0/Booking.deps.json
+E:/Senior/Mobile Application/Booking Project/Booking/Booking/bin/Debug/netstandard2.0/Booking.dll
+E:/Senior/Mobile Application/Booking Project/Booking/Booking/bin/Debug/netstandard2.0/ref/Booking.dll
+E:/Senior/Mobile Application/Booking Project/Booking/Booking/bin/Debug/netstandard2.0/Booking.pdb
+E:/Senior/Mobile Application/Booking Project/Booking/Booking/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/mac/Documents/Study/TermVII/Booking/Booking/bin/Debug/netstandard2.0/Booking.deps.json
+/Users/mac/Documents/Study/TermVII/Booking/Booking/bin/Debug/netstandard2.0/Booking.dll
+/Users/mac/Documents/Study/TermVII/Booking/Booking/bin/Debug/netstandard2.0/ref/Booking.dll
+/Users/mac/Documents/Study/TermVII/Booking/Booking/bin/Debug/netstandard2.0/Booking.pdb
+/Users/mac/Documents/Study/TermVII/Booking/Booking/obj/Debug/netstandard2.0/Booking.csprojAssemblyReference.cache
+/Users/mac/Documents/Study/TermVII/Booking/Booking/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/mac/Documents/Study/TermVII/Booking/Booking/obj/Debug/netstandard2.0/BookingShell.xaml.g.cs
+/Users/mac/Documents/Study/TermVII/Booking/Booking/obj/Debug/netstandard2.0/Controls/FlyoutHeader.xaml.g.cs
+/Users/mac/Documents/Study/TermVII/Booking/Booking/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/mac/Documents/Study/TermVII/Booking/Booking/obj/Debug/netstandard2.0/Views/AboutPage.xaml.g.cs
+/Users/mac/Documents/Study/TermVII/Booking/Booking/obj/Debug/netstandard2.0/Views/FoodDetailPage.xaml.g.cs
+/Users/mac/Documents/Study/TermVII/Booking/Booking/obj/Debug/netstandard2.0/Views/FoodPage.xaml.g.cs
+/Users/mac/Documents/Study/TermVII/Booking/Booking/obj/Debug/netstandard2.0/Views/HotelDetailPage.xaml.g.cs
+/Users/mac/Documents/Study/TermVII/Booking/Booking/obj/Debug/netstandard2.0/Views/HotelPage.xaml.g.cs
+/Users/mac/Documents/Study/TermVII/Booking/Booking/obj/Debug/netstandard2.0/Views/LocationDetailPage.xaml.g.cs
+/Users/mac/Documents/Study/TermVII/Booking/Booking/obj/Debug/netstandard2.0/Views/LocationPage.xaml.g.cs
+/Users/mac/Documents/Study/TermVII/Booking/Booking/obj/Debug/netstandard2.0/Views/LoginPage.xaml.g.cs
+/Users/mac/Documents/Study/TermVII/Booking/Booking/obj/Debug/netstandard2.0/Views/VehicleDetailPage.xaml.g.cs
+/Users/mac/Documents/Study/TermVII/Booking/Booking/obj/Debug/netstandard2.0/Views/VehiclePage.xaml.g.cs
+/Users/mac/Documents/Study/TermVII/Booking/Booking/obj/Debug/netstandard2.0/Booking.AssemblyInfoInputs.cache
+/Users/mac/Documents/Study/TermVII/Booking/Booking/obj/Debug/netstandard2.0/Booking.AssemblyInfo.cs
+/Users/mac/Documents/Study/TermVII/Booking/Booking/obj/Debug/netstandard2.0/Booking.csproj.CoreCompileInputs.cache
+/Users/mac/Documents/Study/TermVII/Booking/Booking/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/mac/Documents/Study/TermVII/Booking/Booking/obj/Debug/netstandard2.0/Booking.dll
+/Users/mac/Documents/Study/TermVII/Booking/Booking/obj/Debug/netstandard2.0/ref/Booking.dll
+/Users/mac/Documents/Study/TermVII/Booking/Booking/obj/Debug/netstandard2.0/Booking.pdb
+/Users/mac/Documents/Study/TermVII/Booking/Booking/obj/Debug/netstandard2.0/Views/ForgotPage.xaml.g.cs
+/Users/mac/Documents/Study/TermVII/Booking/Booking/obj/Debug/netstandard2.0/Views/SignupPage.xaml.g.cs

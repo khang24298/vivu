@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Shell xmlns="http://xamarin.com/schemas/2014/forms"
+       xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+       xmlns:views="clr-namespace:Booking.Views"
+       x:Class="Booking.BookingShell">
+
+    <FlyoutItem Title="Booking" FlyoutDisplayOptions="AsMultipleItems">
+        <Tab Title="Domestic" Icon="paw.png">
+            <ShellContent Title="Cats" Icon="cat.png">
+                <!--<views:CatsPage></views:CatsPage>-->
+            </ShellContent>
+            <ShellContent Title="Dogs" Icon="dog.png">
+                <!--<views:DogsPage></views:DogsPage>-->
+            </ShellContent>
+        </Tab>
+        <ShellContent Title="Monkeys" Icon="monkey.png">
+            <!--<views:MonkeysPage></views:MonkeysPage>-->
+        </ShellContent>
+        <ShellContent Title="Elephants" Icon="elephant.png">
+            <!--<views:ElephantsPage></views:ElephantsPage>-->
+        </ShellContent>
+        <ShellContent Title="Bears" Icon="bear.png">
+            <!--<views:BearsPage></views:BearsPage>-->
+        </ShellContent>
+    </FlyoutItem>
+
+    <ShellContent Route="about"
+                  Title="About" Icon="info.png">
+    </ShellContent>
+
+    <MenuItem Text="Random" IconImageSource="random.png"
+              Command="{Binding RandomPageCommand}">
+    </MenuItem>
+    
+    <MenuItem Text="Help" IconImageSource="help.png"
+              Command="{Binding HelpCommand}"
+              CommandParameter="https://google.com">
+    </MenuItem>
+</Shell>

@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="Booking.Views.SignupPage">
+    <ContentPage.Content>
+        <Grid Margin="10,10,10,10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="100" />
+            <RowDefinition Height="70" />
+            <RowDefinition Height="70" />
+            <RowDefinition Height="70" />
+            <RowDefinition Height="70" />
+             <RowDefinition Height="70" />
+            <RowDefinition Height="60" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+        <ImageButton Source="vivulogo.png" Grid.ColumnSpan="2" Grid.Row="0"
+                        HorizontalOptions="Center" Scale="2" Clicked="home_Clicked"
+                        BackgroundColor="Transparent"
+                        />
+
+        <Entry x:Name="txtName" Grid.ColumnSpan="2" Grid.Row="1" Placeholder="Name" />
+        <Entry x:Name="txtEmail" Grid.ColumnSpan="2" Grid.Row="2" Placeholder="Email" />
+        <Entry x:Name="txtDob" Grid.ColumnSpan="2" Grid.Row="3" Placeholder="Day of birth : 21/02/1998" />
+        <Entry x:Name="txtUsr" Grid.ColumnSpan="2" Grid.Row="4" Placeholder="UserName" />
+        <Entry x:Name="txtPass" Grid.ColumnSpan="2" Grid.Row="5" Placeholder="Password" />
+        <Button Grid.ColumnSpan="2" Grid.Row="6" Text="Sign up"
+                Clicked="Button_Clicked" CornerRadius="10" Margin="0,20,0,0"
+                BackgroundColor="DeepSkyBlue"
+                />
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

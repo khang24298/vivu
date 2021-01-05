@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Booking.Views.HotelDetailPage"
+             Title="Hotel List">
+    <ContentPage.Content>
+        <Grid>
+            <Label Text="Welcome to Xamarin.Forms!"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand" />
+            
+            <CollectionView >
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <Grid Margin="10">
+                                 <Grid.RowDefinitions>
+                                    <RowDefinition Height="70" />
+                                    <RowDefinition Height="70" />
+                                    <RowDefinition Height="70" />
+                                    <RowDefinition Height="70" />
+                                    <RowDefinition Height="70" />
+                                </Grid.RowDefinitions>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="*" />
+                                    <ColumnDefinition Width="*" />
+                                </Grid.ColumnDefinitions>
+
+                                <Image Source="{Binding Image}" Aspect="AspectFill"
+                                       Grid.Column="0" Grid.RowSpan="2"></Image>
+                                
+                                <Label Text="{Binding HotelName}" FontAttributes="Bold" FontSize="20" Grid.Column="1" Grid.Row="0"></Label>
+                                
+                                <Label Text="{Binding Address}" FontSize="18" Grid.Column="1" Grid.Row="1"></Label>
+                            </Grid>
+                        </ViewCell>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

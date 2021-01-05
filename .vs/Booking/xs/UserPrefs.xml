@@ -1,0 +1,47 @@
+﻿<Properties StartupConfiguration="{0CB4299A-8249-4488-9FC3-D55311067603}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Booking/Views/LocationPage.xaml">
+    <Files>
+      <File FileName="Booking/Views/HotelDetailPage.xaml" Line="28" Column="1" IsPinned="True" />
+      <File FileName="Booking/App.xaml.cs" Line="14" Column="55" />
+      <File FileName="Booking/MainPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="Booking/Views/VehiclePage.xaml" Line="32" Column="23" />
+      <File FileName="Booking/App.xaml" />
+      <File FileName="Booking/Views/SignupPage.xaml.cs" />
+      <File FileName="Booking/Views/SignupPage.xaml" Line="6" Column="39" />
+      <File FileName="Booking/Views/HotelPage.xaml" Line="32" Column="23" />
+      <File FileName="Booking/MainPage.xaml" Line="31" Column="79" />
+      <File FileName="Booking/Views/LoginPage.xaml.cs" Line="11" Column="2" />
+      <File FileName="Booking/Views/LoginPage.xaml" Line="42" Column="16" />
+      <File FileName="Booking/Views/VehicleDetailPage.xaml" Line="11" Column="56" />
+      <File FileName="Booking/Views/LocationPage.xaml" Line="8" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Booking" expanded="True">
+            <Node name="Booking" expanded="True">
+              <Node name="Views" expanded="True">
+                <Node name="LocationPage.xaml" selected="True" />
+                <Node name="LoginPage.xaml" expanded="True" />
+              </Node>
+              <Node name="App.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+            <Node name="Booking.Android" expanded="True">
+              <Node name="Resources" expanded="True">
+                <Node name="drawable" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Booking.Android AndroidDesignerPreferredTheme="Theme.AppCompat.Light.NoActionBar" TriggeredFromHotReload="False" PreferredExecutionTarget="Android.pixel_3_xl_pie_9_0_-_api_28" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

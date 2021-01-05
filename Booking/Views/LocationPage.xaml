@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Booking.Views.LocationPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <ListView x:Name="LstHotel" ItemSelected="LstHotel_ItemSelected" RowHeight="120">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <Grid Margin="10">
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="Auto"></RowDefinition>
+                                    <RowDefinition Height="3*"></RowDefinition>
+                                </Grid.RowDefinitions>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="*"></ColumnDefinition>
+                                    <ColumnDefinition Width="2*"></ColumnDefinition>
+                                </Grid.ColumnDefinitions>
+
+                                <Image Source="{Binding Image}" Aspect="AspectFill"
+                                       Grid.Column="0" Grid.RowSpan="2"></Image>
+                                
+                                <Label Text="{Binding HotelName}" FontAttributes="Bold" FontSize="20" Grid.Column="1" Grid.Row="0"></Label>
+                                
+                                <Label Text="{Binding Address}" FontSize="18" Grid.Column="1" Grid.Row="1"></Label>
+                            </Grid>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

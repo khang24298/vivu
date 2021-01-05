@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Booking.Views.VehicleDetailPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <Image Source="vivologo.png"></Image>
+            <Label Text="Hotel Name"></Label>
+            <Label Text="Hotel Price"></Label>
+            <Label Text="Hotel Description"></Label>
+            <Button Text="Book" Clicked="Button_Clicked"></Button>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

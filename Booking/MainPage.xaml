@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Booking.MainPage"
+             Title="Vivu.com"
+             >
+    <ContentPage.Content>
+        
+        <Grid Margin="5,5,5,5">
+           <Grid.RowDefinitions>
+                <RowDefinition Height="100" />
+                <RowDefinition Height="80" />
+                <RowDefinition Height="80" />
+                <RowDefinition Height="60" />
+                <RowDefinition Height="70" />
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+            <Image Source="vivulogo.png" Grid.ColumnSpan="2" Grid.Row="0"
+                         HorizontalOptions="Center" Scale="2" BackgroundColor="Transparent"
+                         />
+            <ImageButton Source="hotel-booking-services-cheap-hotels-booking-the-easiest-method-to-benefit-from-the-download-1-1.jpg"
+                         Grid.Column="0" Grid.Row="1" >
+            </ImageButton>
+             <ImageButton Source="images.jpeg" Grid.Column="1" Grid.Row="1">
+            </ImageButton>
+            <ImageButton Source="30-BEST-PLACES-TO-VISIT-IN.jpg" Grid.Column="0" Grid.Row="2" >
+            </ImageButton>
+             <ImageButton Source="nearby-512.png" Grid.Column="1" Grid.Row="2">
+            </ImageButton>
+        </Grid>
+    </ContentPage.Content>
+
+</ContentPage>
